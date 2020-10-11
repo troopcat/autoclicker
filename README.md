@@ -1,0 +1,2 @@
+# autoclicker
+Otomatik tıklama
